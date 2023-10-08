@@ -2,7 +2,7 @@
 ### Hi, I'm 2e16Jun. 👋
 I have been enjoying problem solving and developing.
 
-blog : [velog](velog.io/@carder)
+[velog](https://velog.io/@carder)
 
 **Technicals**
 
