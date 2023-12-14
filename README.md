@@ -1,5 +1,5 @@
 
-### Hi, I'm 2e16Jun. 👋
+### Hi, I'm Jun. 👋
 I have been enjoying problem solving and developing.
 
 [velog](https://velog.io/@carder)
