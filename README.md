@@ -25,9 +25,9 @@ I have been enjoying problem solving and developing.
   <br>
   <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">   
   <img src="https://img.shields.io/badge/azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
-  <br>
+<-- <br>
   <img src="https://img.shields.io/badge/terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
-  <br>
+  <br> -->
 </div>
 
 <br/>
